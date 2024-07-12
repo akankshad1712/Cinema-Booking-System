@@ -1,0 +1,25 @@
+body, textarea {
+  background-color:black;
+  color:#FFFFFF;
+  font-family:"Andale Mono",Arial,sans-serif;
+  font-size:10pt;
+  scrollbar-base-color:#B70000;
+  scrollbar-3dlight-color:#FFFFFF;
+  scrollbar-arrow-color:#FFFFFF;
+  scrollbar-darkshadow-color:#000000;
+  scrollbar-face-color:B45376;
+  scrollbar-highlight-color:#FFFFFF;
+  scrollbar-shadow-color:#000000;
+  scrollbar-track-color:#CC6289;
+}
+
+body
+ {
+ background-image: url(backgr.jpg); background-repeat:no-repeat;
+ background-attachment:fixed; padding:0px;
+ }
+
+div.mybody
+ {
+ margin-left:100px; margin-top:20px; margin-right:20px; margin-bottom:20px;
+ }
